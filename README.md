@@ -8,3 +8,4 @@
 * [AWSAssociateSolutionsArchitectNotes](https://github.com/Apjo/AWSAssociateSolutionsArchitectNotes)
 * [acantril](https://github.com/acantril/aws-sa-associate-saac02)
 * [AWS-SAP-C01-Study-Guide](https://github.com/aandr26/AWS-SAP-C01-Study-Guide/blob/master/README.md)
+* [SAA02 Notes](https://github.com/truongnmt/aws-solution-architect-associate-note)
