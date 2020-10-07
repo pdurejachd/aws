@@ -5,7 +5,33 @@
 
 ---
 
+### AWS Site Links
+
+* [certification-prep](https://aws.amazon.com/certification/certification-prep/)
+* [AWS FAQ](https://aws.amazon.com/faqs/)
+* [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/aws-cli.pdf)
+* [digitalcloud](https://digitalcloud.training/amazon-aws-free-certification-training-solutions-architect/)
+
+
+### Git Links
+
 * [AWSAssociateSolutionsArchitectNotes](https://github.com/Apjo/AWSAssociateSolutionsArchitectNotes)
 * [acantril](https://github.com/acantril/aws-sa-associate-saac02)
 * [AWS-SAP-C01-Study-Guide](https://github.com/aandr26/AWS-SAP-C01-Study-Guide/blob/master/README.md)
 * [SAA02 Notes](https://github.com/truongnmt/aws-solution-architect-associate-note)
+
+### Youtube Links
+* [SaM theCloudGuy](https://www.youtube.com/watch?v=ye7hgGZwSsY&list=PLJIqXVV4K5LXEGBDPy1mxigzNVMAzkOHv)
+
+### CheatSheets/FAQ
+* [tutorialsdojo](https://tutorialsdojo.com/aws-cheat-sheets/)
+* [digitalcloud](https://digitalcloud.training/certification-training/aws-solutions-architect-associate/)
+* [AWS FAQ](https://aws.amazon.com/faqs/)
+
+### Questions Dump
+
+* https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate/view/
+* https://www.simplilearn.com/aws-solutions-architect-exam-free-practice-test
+* https://www.knowledgehut.com/practice-tests/aws-solutions-architect-associate
+* https://digitalcloud.training/aws-solutions-architect-free-practice-questions/ 
+* https://www.whizlabs.com/blog/aws-solutions-architect-associate-exam-questions/ 
