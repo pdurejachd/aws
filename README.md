@@ -2,11 +2,14 @@
 
 * [Installing AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html)
 * [AWS Ploicy Generator](https://awspolicygen.s3.amazonaws.com/policygen.html)
+* [CIDR Range Calculator](https://cidr.xyz/) 
+* [AWS Budget/Estimate Calculator](https://calculator.aws/#/)
 
 ---
 
 ### AWS Site Links
 
+* [AWS Official Docs](https://docs.aws.amazon.com/)
 * [certification-prep](https://aws.amazon.com/certification/certification-prep/)
 * [AWS FAQ](https://aws.amazon.com/faqs/)
 * [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/aws-cli.pdf)
@@ -34,4 +37,10 @@
 * https://www.simplilearn.com/aws-solutions-architect-exam-free-practice-test
 * https://www.knowledgehut.com/practice-tests/aws-solutions-architect-associate
 * https://digitalcloud.training/aws-solutions-architect-free-practice-questions/ 
-* https://www.whizlabs.com/blog/aws-solutions-architect-associate-exam-questions/ 
+* https://www.whizlabs.com/blog/aws-solutions-architect-associate-exam-questions/
+
+
+### Pointers
+
+
+
