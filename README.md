@@ -4,12 +4,14 @@
 * [AWS Ploicy Generator](https://awspolicygen.s3.amazonaws.com/policygen.html)
 * [CIDR Range Calculator](https://cidr.xyz/) 
 * [AWS Budget/Estimate Calculator](https://calculator.aws/#/)
+* [VPC Pricing](https://aws.amazon.com/vpc/pricing/)
 
 ---
 
 ### AWS Site Links
 
 * [AWS Official Docs](https://docs.aws.amazon.com/)
+* [AWS Hands-on Links](https://aws.amazon.com/getting-started/hands-on/)
 * [certification-prep](https://aws.amazon.com/certification/certification-prep/)
 * [AWS FAQ](https://aws.amazon.com/faqs/)
 * [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/aws-cli.pdf)
@@ -42,5 +44,14 @@
 
 ### Pointers
 
+* [VPC](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
+
+### Hands-On-Scenarios
+
+* https://github.com/miztiik/aws-real-time-use-cases
+* https://itstechschool.com/aws-labs-scenarios/
+* https://github.com/techarkit/aws-lab-guide
+* https://github.com/solvimm/aws-solutions-architect-associate-labs
+* https://github.com/awslabs/aws-well-architected-labs
 
 
