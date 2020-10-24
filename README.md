@@ -5,11 +5,13 @@
 * [CIDR Range Calculator](https://cidr.xyz/) 
 * [AWS Budget/Estimate Calculator](https://calculator.aws/#/)
 * [VPC Pricing](https://aws.amazon.com/vpc/pricing/)
+* [AWS Calculator](https://calculator.aws/#/)
 
 ---
 
 ### AWS Site Links
 
+* [AWS Demos](https://www.youtube.com/watch?v=wlsVsEwnBxA&list=PLhr1KZpdzukcONwoeZOK3oCZiOngt4-o4)
 * [AWS Official Docs](https://docs.aws.amazon.com/)
 * [AWS Hands-on Links](https://aws.amazon.com/getting-started/hands-on/)
 * [certification-prep](https://aws.amazon.com/certification/certification-prep/)
@@ -29,6 +31,7 @@
 * [SaM theCloudGuy](https://www.youtube.com/watch?v=ye7hgGZwSsY&list=PLJIqXVV4K5LXEGBDPy1mxigzNVMAzkOHv)
 
 ### CheatSheets/FAQ
+* [AWS-SAA02](https://tutorialsdojo.com/aws-cheat-sheet-aws-certified-solutions-architect-associate/)
 * [tutorialsdojo](https://tutorialsdojo.com/aws-cheat-sheets/)
 * [digitalcloud](https://digitalcloud.training/certification-training/aws-solutions-architect-associate/)
 * [AWS FAQ](https://aws.amazon.com/faqs/)
@@ -54,4 +57,7 @@
 * https://github.com/solvimm/aws-solutions-architect-associate-labs
 * https://github.com/awslabs/aws-well-architected-labs
 
+### Notes
+
+* [AWS CLI COMMANDS](cli-commands.md)
 
