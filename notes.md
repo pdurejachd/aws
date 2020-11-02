@@ -2,7 +2,7 @@
 
 
 * [Aurora](./aurora.md)
-
+* [EBS](./ebs.md)
 
 
 ### VPC

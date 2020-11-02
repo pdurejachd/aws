@@ -11,6 +11,7 @@
 
 ### AWS Site Links
 
+* [EC2 Instance Info](https://ec2instances.info/)
 * [AWS Demos](https://www.youtube.com/watch?v=wlsVsEwnBxA&list=PLhr1KZpdzukcONwoeZOK3oCZiOngt4-o4)
 * [AWS Official Docs](https://docs.aws.amazon.com/)
 * [AWS Hands-on Links](https://aws.amazon.com/getting-started/hands-on/)
@@ -26,6 +27,10 @@
 * [acantril](https://github.com/acantril/aws-sa-associate-saac02)
 * [AWS-SAP-C01-Study-Guide](https://github.com/aandr26/AWS-SAP-C01-Study-Guide/blob/master/README.md)
 * [SAA02 Notes](https://github.com/truongnmt/aws-solution-architect-associate-note)
+
+### Cloudformation - Git Links
+* https://github.com/natonic/CloudFormation-Deep-Dive
+
 
 ### Youtube Links
 * [SaM theCloudGuy](https://www.youtube.com/watch?v=ye7hgGZwSsY&list=PLJIqXVV4K5LXEGBDPy1mxigzNVMAzkOHv)
@@ -56,6 +61,9 @@
 * https://github.com/techarkit/aws-lab-guide
 * https://github.com/solvimm/aws-solutions-architect-associate-labs
 * https://github.com/awslabs/aws-well-architected-labs
+
+
+
 
 ### Notes
 
