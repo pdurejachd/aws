@@ -14,6 +14,7 @@
 * [EC2 Instance Info](https://ec2instances.info/)
 * [AWS Demos](https://www.youtube.com/watch?v=wlsVsEwnBxA&list=PLhr1KZpdzukcONwoeZOK3oCZiOngt4-o4)
 * [AWS Official Docs](https://docs.aws.amazon.com/)
+* [JavaTpoint AWS](https://www.javatpoint.com/aws-api-gateway)
 * [AWS Hands-on Links](https://aws.amazon.com/getting-started/hands-on/)
 * [certification-prep](https://aws.amazon.com/certification/certification-prep/)
 * [AWS FAQ](https://aws.amazon.com/faqs/)
